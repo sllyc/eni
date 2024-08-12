@@ -1,6 +1,6 @@
 # Eni
 
-<u>***Please note this project is under its early-stage development!***</u>
+### <ins>*Please note this project is under its early-stage development!*</ins>
 
 Eni is a standalone HTML/JavaScript application that allows users to create interactive user interface in a reactive manner with lightweight code. 
 
